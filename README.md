@@ -1,2 +1,5 @@
 # HuaweiUnpack
-直接拖动UPDATE.APP到本程序上解包。
+Drag UPDATE.APP to the program unpacked
+
+## Download
+https://github.com/568875138/HuaweiUnpack/blob/master/Releases/HuaweiUnpack.zip
