@@ -1,0 +1,7 @@
+C:\Users\Yang\Desktop\HuaweiUpdateLibrary-master\HuaweiUpdateLibrary\bin\Release\HuaweiUpdateLibrary.dll
+C:\Users\Yang\Desktop\HuaweiUpdateLibrary-master\HuaweiUpdateLibrary\bin\Release\HuaweiUpdateLibrary.pdb
+C:\Users\Yang\Desktop\HuaweiUpdateLibrary-master\HuaweiUpdateLibrary\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Yang\Desktop\HuaweiUpdateLibrary-master\HuaweiUpdateLibrary\obj\Release\HuaweiUpdateLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yang\Desktop\HuaweiUpdateLibrary-master\HuaweiUpdateLibrary\obj\Release\HuaweiUpdateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yang\Desktop\HuaweiUpdateLibrary-master\HuaweiUpdateLibrary\obj\Release\HuaweiUpdateLibrary.dll
+C:\Users\Yang\Desktop\HuaweiUpdateLibrary-master\HuaweiUpdateLibrary\obj\Release\HuaweiUpdateLibrary.pdb
